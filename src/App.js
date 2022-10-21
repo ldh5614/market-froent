@@ -12,8 +12,8 @@ function App() {
     const history = useHistory();
     return (
         <div>
+            <h1>asdf</h1>
             <div id="header">
-                <h1>16:57</h1>
                 <HaderPage />
             </div>
             <div id="body">
